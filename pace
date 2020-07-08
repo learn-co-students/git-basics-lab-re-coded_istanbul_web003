@@ -1,0 +1,72 @@
+* [33m5b87bdb[m --timeout 5000 [31m(maxwellbenton, 9 weeks ago)[m
+*   [33m2ba1ec7[m Merge pull request #3 from learn-co-curriculum/wip-add-toggle-back-inst [31m(Maxwell Benton, 7 months ago)[m
+[32m|[m[33m\[m  
+[32m|[m * [33m15f2530[m Address #2 [31m(Steven G. Harms, 11 months ago)[m
+* [33m|[m [33md0b6635[m Bump mocha-multi up to avoid LABSBOARD-2959 [31m(Steven G. Harms, 9 months ago)[m
+* [33m|[m [33m12ef445[m Update ignore file [31m(Steven G. Harms, 9 months ago)[m
+* [33m|[m   [33m7e3c91a[m Merge pull request #6 from learn-co-curriculum/wip-bump-mocha-ver [31m(Steven G. Harms, 11 months ago)[m
+[33m|[m[35m\[m [33m\[m  
+[33m|[m [35m|[m[33m/[m  
+[33m|[m[33m/[m[35m|[m   
+[33m|[m * [33m7bf9e51[m Fix Issue #5 in Learn IBIDE context [31m(Steven G. Harms, 11 months ago)[m
+[33m|[m[33m/[m  
+* [33m7114f63[m AUTO: tickling learn v3 [31m(maxwellbenton, 1 year, 1 month ago)[m
+* [33m4bf9c3d[m AUTO: tickling learn again [31m(maxwellbenton, 1 year, 1 month ago)[m
+* [33m9f960d1[m remove extra space [31m(maxwellbenton, 1 year, 1 month ago)[m
+* [33m7b95aa7[m AUTO: tickling learn [31m(maxwellbenton, 1 year, 1 month ago)[m
+* [33ma5ed0f9[m learning goals [31m(maxwellbenton, 1 year, 1 month ago)[m
+* [33mca7c4e1[m adds message about solution branch to .learn [31m(maxwellbenton, 1 year, 2 months ago)[m
+* [33mef927f9[m Update README.md [31m(Steven G. Harms, 1 year, 4 months ago)[m
+* [33mf1dc8b4[m cleans up intro, adds info to conclusion [31m(maxwellbenton, 1 year, 4 months ago)[m
+*   [33m4c61850[m Merge pull request #1 from learn-co-curriculum/wip-review [31m(Maxwell Benton, 1 year, 4 months ago)[m
+[36m|[m[1;31m\[m  
+[36m|[m * [33m4788efa[m Adjust wording and capitalization [31m(Jen Myers, 1 year, 4 months ago)[m
+[36m|[m[36m/[m  
+* [33m1cea8b2[m removes spacing [31m(maxwellbenton, 1 year, 4 months ago)[m
+* [33m55a99ae[m updates package.json name [31m(maxwellbenton, 1 year, 4 months ago)[m
+* [33mafa45a0[m updates readme for prework [31m(maxwellbenton, 1 year, 4 months ago)[m
+* [33m06f4e57[m Update README.md [31m(Maxwell Benton, 1 year, 9 months ago)[m
+* [33mcf45a41[m Update README.md [31m(Maxwell Benton, 1 year, 9 months ago)[m
+* [33m5bbbc6a[m updated package.json [31m(maxwell, 1 year, 11 months ago)[m
+*   [33m8991748[m Merge pull request #1 from learn-co-curriculum/fix-typo [31m(Steven G. Harms, 2 years ago)[m
+[1;32m|[m[1;33m\[m  
+[1;32m|[m * [33md5d019e[m Fix typo [31m(Tom Black, 2 years ago)[m
+[1;32m|[m[1;32m/[m  
+* [33m76eb0d3[m Update README.md [31m(Steven G. Harms, 2 years ago)[m
+* [33m0f6cd1f[m Tweaks to the converted git lab [31m(drakeltheryuujin, 2 years ago)[m
+* [33m5cb06fe[m added tests [31m(maxwell, 2 years, 3 months ago)[m
+* [33mdb5cba3[m Update instructions per git-remotes-with-github-readme [31m(Gabe Jackson, 2 years, 11 months ago)[m
+* [33mfc55e7e[m deeper explanation of -u flag + more (#12) [31m(gj, 4 years ago)[m
+* [33mbfeb84a[m Fix git push -u origin master [31m(Charles Pletcher, 4 years ago)[m
+* [33m2937ec0[m optimize learn link [processing skip] [31m(Adam Jonas, 4 years, 5 months ago)[m
+*   [33m14b9447[m Merge pull request #7 from preetdha/preetdha-1449851943 [31m(AnnJohn, 4 years, 7 months ago)[m
+[1;34m|[m[1;35m\[m  
+[1;34m|[m * [33mc2cb169[m Updated README.md [31m(Preet Dha, 4 years, 7 months ago)[m
+* [1;35m|[m   [33m0e4c82b[m Merge pull request #8 from febbraiod/febbraiod-1449868433 [31m(AnnJohn, 4 years, 7 months ago)[m
+[1;35m|[m[31m\[m [1;35m\[m  
+[1;35m|[m [31m|[m[1;35m/[m  
+[1;35m|[m[1;35m/[m[31m|[m   
+[1;35m|[m * [33m2af8607[m grammar fix [31m(Don, 4 years, 7 months ago)[m
+[1;35m|[m[1;35m/[m  
+* [33m0e633ba[m add learn link [processing skip] [31m(Adam Jonas, 4 years, 7 months ago)[m
+* [33m2140878[m made instructions clearer and add -u flag to git push [31m(deniznida, 4 years, 7 months ago)[m
+*   [33mf45e0fa[m Merge pull request #4 from plai217/plai217-1446921872 [31m(AnnJohn, 4 years, 8 months ago)[m
+[32m|[m[33m\[m  
+[32m|[m * [33mbc55177[m Updated README.md [31m(plai217, 4 years, 8 months ago)[m
+* [33m|[m   [33m6d784bc[m Merge pull request #5 from Louiefigz/Louiefigz-1446921929 [31m(AnnJohn, 4 years, 8 months ago)[m
+[33m|[m[35m\[m [33m\[m  
+[33m|[m [35m|[m[33m/[m  
+[33m|[m[33m/[m[35m|[m   
+[33m|[m * [33m34c23fb[m Updated README.md [31m(Louiefigz, 4 years, 8 months ago)[m
+[33m|[m[33m/[m  
+*   [33mdd1236d[m Merge pull request #1 from learn-co-curriculum/wip-new [31m(Joshua Owens, 4 years, 8 months ago)[m
+[36m|[m[1;31m\[m  
+[36m|[m * [33maa0f6bd[m Add git pull content [31m(Joshua Owens, 4 years, 8 months ago)[m
+[36m|[m * [33m9566839[m "clone url" edit [31m(Joshua Owens, 4 years, 8 months ago)[m
+[36m|[m * [33ma0d2640[m README to all caps [31m(Joshua Owens, 4 years, 8 months ago)[m
+[36m|[m * [33mc726172[m spelling collaborating better [31m(Joe Burgess, 4 years, 8 months ago)[m
+[36m|[m * [33m4b24f29[m capitalize README [31m(Joe Burgess, 4 years, 8 months ago)[m
+[36m|[m * [33m212f2d0[m add coding instructions [31m(joshuabamboo, 4 years, 8 months ago)[m
+[36m|[m * [33m0fc85a7[m we should really put these in the lab generator [31m(joshuabamboo, 4 years, 8 months ago)[m
+[36m|[m[36m/[m  
+* [33m12c73e9[m Initial commit [31m(Joshua Owens, 4 years, 8 months ago)[m
